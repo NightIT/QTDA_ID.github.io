@@ -1,0 +1,19 @@
+﻿addA('Tổng hợp nhạc online');
+
+
+addS('http://stream71.gonct.info/62266183fe9509673ddf423bd45f879e/4ef73d67/NhacCuaTui134/Tro%20Lai%20Cao%20Bang%20-%20Ha%20Van%20%5BNCT%2077634342154947500000%5D.mp3');addT('Trở Lại Cao Bằng');
+addS('http://stream12.gonct.info/d00e9397fb4369fa5324220c5e30f01e/4ef73d67/NhacCuaTui179/Tieng%20Hat%20Giua%20Rung%20Pac%20Bo%20-%20Hong%20Vy%20%5BNCT%20606345091296348704958%5D.mp3');addT(' Tiếng Hát Giữa Rừng Pắc Bó');
+addS('http://stream71.gonct.info/793ba5be92bdb2e5004d75d2e34780c6/4ef74b7d/NhacCuaTui195/Yeu%20%20Thuong%20%20dau%20-%20Quang%20Vinh%20%5BNCT%20686345833107434787508%5D.mp3');addT('Yêu + thương = đau');
+addS('http://stream41.gonct.info/7278297389f33bf6906dd2a6c7b225d6/4ef73d67/NhacCuaTui193/dem%20Trang%20-%20Khac%20Viet%20%5BNCT%2031634569533626757500%5D.mp3');addT('Đêm trắng');
+addS('http://stream71.gonct.info/94569c3ac4df84a57f5c142fbe8f1df1/4ef73d67/NhacCuaTui195/da%20Quen%20Nu%20Hon%20-%20Trieu%20Hai%20%5BNCT%2022634585531586447500%5D.mp3');addT(' Đã quên nụ hôn  ');
+addS('http://stream61.gonct.info/0ad4158284369ec9fd005000b6d8fb65/4ef74b7d/NhacCuaTui114/Xin%20Gio%20dung%20Thoi%20-%20ATM%20Band%20%5BNCT%2088634220710011406250%5D.mp3');addT(' Xin gió đừng thổi  ');
+addS('http://stream51.gonct.info/ae9f1b2d3d395f9d8efd88600e3cd3fe/4ef73d67/NhacCuaTui095/Anh%20Ve%20Mien%20Tay%20-%20Phong%20Thai%20Phuong%20%5BNCT%2074634093405202343750%5D.mp3');addT('Anh về miền tây  ');
+
+addS('http://stream71.gonct.info/14e64eae028d55622af8a3b5b36100a4/4ef74b7d/NhacCuaTui195/Nga%20Tu%20duong%20-%20Ho%20Quang%20Hieu%20%5BNCT%2031634581717886135000%5D.mp3');addT('Ngã tư đường');
+addS('http://stream41.gonct.info/2b452838a8077ae6b341b3a6722491cd/4ef74b7d/NhacCuaTui193/Hanh%20Phuc%20La%20Anh%20%20-%20Mi%20Lan%20%5BNCT%2035634571347723788750%5D.mp3');addT('Hạnh phúc là anh');
+addS('http://stream32.gonct.info/fa6e893310513838e684daec9ee1f41d/4ef73d67/NhacCuaTui162/Mon%20Qua%20Cuoi%20-%20Nhat%20Tinh%20Anh%20%5BNCT%2015634452277828656250%5D.mp3');addT('Món quà cuối');
+addS('http://stream41.gonct.info/bb5c16ca1cc05102f68c3d87e790af9a/4ef74b7d/NhacCuaTui193/Tinh%20Van%20Trai%20Ngang%20-%20An%20Nhien-%20Truong%20Bao%20Khang%20%5BNCT%2000634573035196288750%5D.mp3');addT('Tình vẫn trái ngang');
+addS('http://stream61.gonct.info/36a630af69cc8f7b55447343391cc5e4/4ef73d67/NhacCuaTui111/Cho%20Em%20Trong%20dem%20-%20dang%20cap%20nhat%20%5BNCT%2077634202493485937500%5D.mp3');addT('Chờ em trong đêm');
+addS('http://st01.freesocialmusic.com/mp3/2012/11/09/1416039644/135245478439_1393.mp3');addT('Dieu lang tham trong anh');
+
+loadOK();

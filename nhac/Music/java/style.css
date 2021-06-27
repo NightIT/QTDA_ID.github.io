@@ -1,0 +1,72 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #FFCCFF;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; 
+	SCROLLBAR-SHADOW-COLOR: #666666; 
+	SCROLLBAR-3DLIGHT-COLOR: #000000; 
+	SCROLLBAR-ARROW-COLOR: #ffffff; 
+	SCROLLBAR-TRACK-COLOR: #FFCCFF; 
+	SCROLLBAR-DARKSHADOW-COLOR: #FFCCFF
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: Arial
+}
+A.menuleft {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menuleft:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menuleft:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menuleft:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menuleft:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.menubar {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menubar:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menubar:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menubar:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menubar:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.newslink {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A.newslink:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A.newslink:link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A.newslink:active {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A.newslink:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.subject {
+	FONT-WEIGHT: bold; COLOR: #990000; TEXT-DECORATION: none
+}
+A.subject:visited {
+	FONT-WEIGHT: bold; COLOR: #990000; TEXT-DECORATION: none
+}
+A.subject:link {
+	FONT-WEIGHT: bold; COLOR: #990000; TEXT-DECORATION: none
+}
+A.subject:active {
+	FONT-WEIGHT: bold; COLOR: #990000; TEXT-DECORATION: none
+}
+A.subject:hover {
+	FONT-WEIGHT: bold; COLOR: #ff0000; TEXT-DECORATION: underline
+}
